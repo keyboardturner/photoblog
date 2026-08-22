@@ -14,6 +14,8 @@ comments: false
 
 # Warcraft Height Chart
 
+Note: For the time being my image hosting provider seems very finnicky and unreliable. I'm going to be switching to something else soon. In the meantime the [Data Tables](#data-tables) should still be there for numbers, but the pictures may remain unavailable.
+
 
 #### Table of Contents
 
